@@ -1,0 +1,40 @@
+新闻,#genre#
+凤凰资讯,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227226/index.m3u8
+NOW新闻台,http://livetv.dnsfor.me/channel.4.m3u8
+上视新闻频道,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
+东方卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225828/index.m3u8
+
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+Pluto TV News,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5268abcd0ce20a8472000114/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+CNN,https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+ABC News,https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
+NBC News,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+Cheddar News,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812afe1d0f0b8d55dde67fa/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+Newsy,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5459795fc9f133a519bc0bef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+Sky News,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/55b285cd2665de274553d66f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+BBC News,https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+DW,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+Euronews,https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+
+Al Jazeera,https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+RT News,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+
+
+央视,#genre#
+CCTV4,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225802/index.m3u8
+CCTV5,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227170/index.m3u8
+CCTV9,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225929/index.m3u8
+CCTV10,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225931/index.m3u8
+CCTV13,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
+
+生活,#genre#
+生活时尚,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227091/index.m3u8
+上海都市频道,http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8?zshangd
+Architectural Digest，https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxarchitecturaldigest/CDN/playlist.m3u8
+The Design Network,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4ff8c8bcf3d600078af3eb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+其它,#genre#
+Bloomberg Quicktake,https://bloomberg-quicktake-1-fi.samsung.wurl.com/manifest/playlist.m3u8
+BBC One,https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
+未知死亡,http://192.168.2.8:5244/d/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98/%E5%8D%B0%E5%BA%A6/%E6%9C%AA%E7%9F%A5%E6%AD%BB%E4%BA%A1.%E5%8D%B0%E5%BA%A6%E7%89%88%E7%83%A7%E8%84%91.%E8%AE%B0%E5%BF%86%E7%A2%8E%E7%89%87%20(2008)/Ghajini.2008.mkv
